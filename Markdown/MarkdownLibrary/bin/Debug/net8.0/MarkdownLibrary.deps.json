@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MarkdownLibrary/1.0.0": {
+        "runtime": {
+          "MarkdownLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarkdownLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

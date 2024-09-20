@@ -1,0 +1,11 @@
+/Users/tanya_plesen/Desktop/markdown/MarkdownLibrary/bin/Debug/net8.0/MarkdownLibrary.deps.json
+/Users/tanya_plesen/Desktop/markdown/MarkdownLibrary/bin/Debug/net8.0/MarkdownLibrary.dll
+/Users/tanya_plesen/Desktop/markdown/MarkdownLibrary/bin/Debug/net8.0/MarkdownLibrary.pdb
+/Users/tanya_plesen/Desktop/markdown/MarkdownLibrary/obj/Debug/net8.0/MarkdownLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanya_plesen/Desktop/markdown/MarkdownLibrary/obj/Debug/net8.0/MarkdownLibrary.AssemblyInfoInputs.cache
+/Users/tanya_plesen/Desktop/markdown/MarkdownLibrary/obj/Debug/net8.0/MarkdownLibrary.AssemblyInfo.cs
+/Users/tanya_plesen/Desktop/markdown/MarkdownLibrary/obj/Debug/net8.0/MarkdownLibrary.csproj.CoreCompileInputs.cache
+/Users/tanya_plesen/Desktop/markdown/MarkdownLibrary/obj/Debug/net8.0/MarkdownLibrary.dll
+/Users/tanya_plesen/Desktop/markdown/MarkdownLibrary/obj/Debug/net8.0/refint/MarkdownLibrary.dll
+/Users/tanya_plesen/Desktop/markdown/MarkdownLibrary/obj/Debug/net8.0/MarkdownLibrary.pdb
+/Users/tanya_plesen/Desktop/markdown/MarkdownLibrary/obj/Debug/net8.0/ref/MarkdownLibrary.dll
