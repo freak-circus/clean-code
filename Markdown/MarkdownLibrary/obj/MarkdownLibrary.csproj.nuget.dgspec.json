@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tanya_plesen/Desktop/Markdown/MarkdownLibrary/MarkdownLibrary.csproj": {}
+    "/Users/tanya_plesen/git/clean-code/Markdown/MarkdownLibrary/MarkdownLibrary.csproj": {}
   },
   "projects": {
-    "/Users/tanya_plesen/Desktop/Markdown/MarkdownLibrary/MarkdownLibrary.csproj": {
+    "/Users/tanya_plesen/git/clean-code/Markdown/MarkdownLibrary/MarkdownLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tanya_plesen/Desktop/Markdown/MarkdownLibrary/MarkdownLibrary.csproj",
+        "projectUniqueName": "/Users/tanya_plesen/git/clean-code/Markdown/MarkdownLibrary/MarkdownLibrary.csproj",
         "projectName": "MarkdownLibrary",
-        "projectPath": "/Users/tanya_plesen/Desktop/Markdown/MarkdownLibrary/MarkdownLibrary.csproj",
+        "projectPath": "/Users/tanya_plesen/git/clean-code/Markdown/MarkdownLibrary/MarkdownLibrary.csproj",
         "packagesPath": "/Users/tanya_plesen/.nuget/packages/",
-        "outputPath": "/Users/tanya_plesen/Desktop/Markdown/MarkdownLibrary/obj/",
+        "outputPath": "/Users/tanya_plesen/git/clean-code/Markdown/MarkdownLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tanya_plesen/.nuget/NuGet/NuGet.Config"

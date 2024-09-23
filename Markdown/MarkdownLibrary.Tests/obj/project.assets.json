@@ -5529,11 +5529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tanya_plesen/Desktop/Markdown/MarkdownLibrary.Tests/MarkdownLibrary.Tests.csproj",
+      "projectUniqueName": "/Users/tanya_plesen/git/clean-code/Markdown/MarkdownLibrary.Tests/MarkdownLibrary.Tests.csproj",
       "projectName": "MarkdownLibrary.Tests",
-      "projectPath": "/Users/tanya_plesen/Desktop/Markdown/MarkdownLibrary.Tests/MarkdownLibrary.Tests.csproj",
+      "projectPath": "/Users/tanya_plesen/git/clean-code/Markdown/MarkdownLibrary.Tests/MarkdownLibrary.Tests.csproj",
       "packagesPath": "/Users/tanya_plesen/.nuget/packages/",
-      "outputPath": "/Users/tanya_plesen/Desktop/Markdown/MarkdownLibrary.Tests/obj/",
+      "outputPath": "/Users/tanya_plesen/git/clean-code/Markdown/MarkdownLibrary.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tanya_plesen/.nuget/NuGet/NuGet.Config"
@@ -5548,8 +5548,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/tanya_plesen/Desktop/Markdown/MarkdownLibrary/MarkdownLibrary.csproj": {
-              "projectPath": "/Users/tanya_plesen/Desktop/Markdown/MarkdownLibrary/MarkdownLibrary.csproj"
+            "/Users/tanya_plesen/git/clean-code/Markdown/MarkdownLibrary/MarkdownLibrary.csproj": {
+              "projectPath": "/Users/tanya_plesen/git/clean-code/Markdown/MarkdownLibrary/MarkdownLibrary.csproj"
             }
           }
         }

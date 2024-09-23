@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KXHbJ30oVV8=",
+  "dgSpecHash": "dxc3BTf2LZU=",
   "success": true,
-  "projectFilePath": "/Users/tanya_plesen/Desktop/Markdown/MarkdownLibrary.Tests/MarkdownLibrary.Tests.csproj",
+  "projectFilePath": "/Users/tanya_plesen/git/clean-code/Markdown/MarkdownLibrary.Tests/MarkdownLibrary.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/tanya_plesen/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/tanya_plesen/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
